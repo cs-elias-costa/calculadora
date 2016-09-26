@@ -1,9 +1,17 @@
 
 
 
-puts "Meu primeiro programa"
+puts "Meu primeiro programa \o/"
 
 
-for i in 1..10
-	puts i
-end
+puts "Entre com o valor a ser calculado:"
+num = gets.chomp
+
+puts num
+
+
+
+
+
+
+
