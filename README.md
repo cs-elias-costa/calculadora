@@ -6,3 +6,6 @@
 
 
 
+```Shell
+ruby my-programa.rb
+```
