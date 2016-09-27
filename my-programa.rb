@@ -1,5 +1,5 @@
 
-puts "Meu primeiro programa \o/"
+puts "\o/ Meu primeiro programa \o/"
 
 
 puts "Entre com o valor a ser calculado:"
