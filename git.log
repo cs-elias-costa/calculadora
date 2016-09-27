@@ -1,0 +1,44 @@
+commit 8fcd342a414e5843d82e5dfaf205b05e3ce93b93
+Author: Elias Costa <eliascosta@Supports-MacBook-Pro-2.local>
+Date:   Mon Sep 26 16:46:29 2016 -0300
+
+    Adicionando readme
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 7da937301fbbe18a137f15043a6a4aa437cadc8f
+Author: Elias Costa <eliascosta@Supports-MacBook-Pro-2.local>
+Date:   Mon Sep 26 16:35:28 2016 -0300
+
+    calculadora
+
+ my-programa.rb | 34 ++++++++++++++++++++++------------
+ 1 file changed, 22 insertions(+), 12 deletions(-)
+
+commit fa52750fd9e825bd6cb2c8263e80d4e1419b299d
+Author: Elias Costa <eliascosta@Supports-MacBook-Pro-2.local>
+Date:   Mon Sep 26 16:00:23 2016 -0300
+
+    new lines
+
+ my-programa.rb | 16 ++++++++++++----
+ 1 file changed, 12 insertions(+), 4 deletions(-)
+
+commit 1331f43e43b28cdf757ffe8e01c76d1a9f3c3838
+Author: Elias Costa <eliascosta@Supports-MacBook-Pro-2.local>
+Date:   Mon Sep 26 15:26:51 2016 -0300
+
+    first code
+
+ my-programa.rb | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+
+commit 110547b29c1a08c2b53166d6225f0de8993d6055
+Author: Elias Costa <eliascosta@Supports-MacBook-Pro-2.local>
+Date:   Mon Sep 26 15:24:39 2016 -0300
+
+    add my programa
+
+ my-programa.rb | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
