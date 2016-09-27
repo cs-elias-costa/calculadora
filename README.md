@@ -1,4 +1,4 @@
-# My First Calculadora em RUBY
+# Operações matemáticas em RUBY
 
 
 
