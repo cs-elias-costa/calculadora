@@ -1,13 +1,12 @@
-# My First Calculadora em RUBY
+#Calculando com RUBY
 
 
 
  **Calculadora** Utilizando o Markdown para o README
 
 ###Execução
----
+----
 
-````shellscript
+```bash
 ruby my-programa.rb
-
-````
+```
